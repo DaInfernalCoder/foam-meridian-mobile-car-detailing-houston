@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foammeridian.shop/sitemap.xml
+
