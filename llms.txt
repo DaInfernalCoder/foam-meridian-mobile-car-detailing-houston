@@ -1,0 +1,26 @@
+# Foam Meridian Mobile Car Detailing Houston
+
+> Appointment-based mobile car detailing in Houston, Texas.
+
+## Primary pages
+- [Homepage](https://foammeridian.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://foammeridian.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://foammeridian.shop/#local-detailing): How mobile detailing works in Houston.
+
+## Verified business facts
+- Business name: Foam Meridian Mobile Car Detailing Houston
+- Primary service area: Houston, Texas
+- Telephone: +1 346-680-3960
+- Service: Appointment-based mobile car detailing
+- Booking: https://cal.com/sumitdatta/auto-detail-service
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://foammeridian.shop/services/)
+- [Interior Car Detailing](https://foammeridian.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://foammeridian.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://foammeridian.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://foammeridian.shop/services/headlight-restoration/)
+- [About](https://foammeridian.shop/about/)
+- [Contact](https://foammeridian.shop/contact/)
+<!-- SEO-NEXT:END -->
